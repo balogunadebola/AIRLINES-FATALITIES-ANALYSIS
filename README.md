@@ -1,5 +1,7 @@
 # AIRLINES-FATALITIES-ANALYSIS
 This dashboard is an analysis of Airline fatalities between 1908-2009
+![Airline fatalities cover page](https://user-images.githubusercontent.com/107516898/202288255-feb5b334-89f2-4d65-a620-514ef254664e.jpg)
+
 
 ----
 # Project Objective: Problem Statement
